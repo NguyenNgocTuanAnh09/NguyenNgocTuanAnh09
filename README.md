@@ -8,7 +8,7 @@
   <img src="https://github-profile-maker.vercel.app/api/divider?bgType=solid&thickness=2&alignment=center&bgSolidColor=CCCCCC&bgStartColor=CCCCCC&bgEndColor=999999&bgGradientDirection=horizontal" alt="Divider" />
 </div>
 
-## Về bản thân tôi
+## ⚡ Về bản thân tôi
 
 🔭 Hiện đang tập trung phát triển các hệ thống Web Full-stack tích hợp Trí tuệ nhân tạo.
 
@@ -27,9 +27,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/stats?username=https%3A%2F%2Fgithub.com%2FNguyenNgocTuanAnh09&theme=tokyonight&layout=standard&show_icons=true&hide_border=false&hide_title=false&hide_rank=false&border_radius=10" width="50%" alt="GitHub Stats" />
-  <img src="https://github-profile-maker.vercel.app/api/top-langs?username=https%3A%2F%2Fgithub.com%2FNguyenNgocTuanAnh09&theme=tokyonight&layout=compact&hide_border=false&hide_progress=false&langs_count=8&border_radius=10" width="50%" alt="Top Languages" />
+  <img src="https://github-profile-maker.vercel.app/api/stats?username=NguyenNgocTuanAnh09&theme=tokyonight&layout=standard&show_icons=true&hide_border=false&hide_title=false&hide_rank=false&border_radius=10" width="49%" alt="GitHub Stats" />
+  <img src="https://github-profile-maker.vercel.app/api/top-langs?username=NguyenNgocTuanAnh09&theme=tokyonight&layout=compact&hide_border=false&hide_progress=false&langs_count=8&border_radius=10" width="49%" alt="Top Languages" />
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=NguyenNgocTuanAnh09&color=blue&style=flat&label=Profile%20Views" alt="Profile Views" />
@@ -39,5 +41,6 @@
   <img src="https://github-profile-maker.vercel.app/api/divider?bgType=solid&thickness=2&alignment=center&bgSolidColor=CCCCCC&bgStartColor=CCCCCC&bgEndColor=999999&bgGradientDirection=horizontal" alt="Divider" />
 </div>
 
-## Section Title
+## 📫 Liên hệ với tôi
 
+Nếu bạn có chung niềm đam mê về AI và phát triển Web, đừng ngần ngại kết nối với tôi nhé!
