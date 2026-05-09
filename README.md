@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=https://github.com/NguyenNgocTuanAnh09&color=blue&style=flat&label=Profile%20Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=NguyenNgocTuanAnh09&color=blue&style=flat&label=Profile%20Views" alt="Profile Views" />
 </div>
 
 <div align="center">
