@@ -1,34 +1,42 @@
-<h1 align="center">Hi, I'm Nguyễn Ngọc Tuấn Anh 👋</h1>
+<h1 align="center">Xin chào, tôi là Nguyễn Ngọc Tuấn Anh 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Engineer+Intern+%7C+Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+NLP+%7C+MLOps;Building+AI-powered+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Thực+tập+sinh+AI+Engineer;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Xử+lý+ngôn+ngữ+tự+nhiên;Xây+dựng+ứng+dụng+Web+tích+hợp+AI" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-maker.vercel.app/api/divider?bgType=solid&thickness=2&alignment=center&bgSolidColor=CCCCCC&bgStartColor=CCCCCC&bgEndColor=999999&bgGradientDirection=horizontal" alt="Divider" />
 </div>
 
-## 👨‍💻 About Me
+## 👨‍💻 Giới thiệu bản thân
 
-🎓 Final-year Information Technology student passionate about Artificial Intelligence and Software Engineering.
+🎓 Sinh viên Công nghệ Thông tin với niềm đam mê mạnh mẽ trong lĩnh vực Trí tuệ nhân tạo và Kỹ thuật phần mềm.
 
-🤖 Focused on Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing.
+🤖 Tập trung nghiên cứu và phát triển trong các lĩnh vực:
+- Machine Learning (Học máy)
+- Deep Learning (Học sâu)
+- Computer Vision (Thị giác máy tính)
+- Natural Language Processing (Xử lý ngôn ngữ tự nhiên)
 
-🌐 Building full-stack web applications integrated with AI models.
+🌐 Xây dựng các ứng dụng Web Full-stack tích hợp mô hình AI.
 
-📊 Interested in the complete AI lifecycle: data preprocessing, model training, evaluation, deployment, and monitoring.
+📊 Quan tâm đến toàn bộ vòng đời của một hệ thống AI:
+- Thu thập và tiền xử lý dữ liệu
+- Huấn luyện và đánh giá mô hình
+- Triển khai (Deployment)
+- Giám sát và tối ưu hệ thống
 
-🚀 Goal: Become an AI Engineer capable of transforming research models into real-world products.
+🚀 Mục tiêu: Trở thành AI Engineer có khả năng biến các mô hình nghiên cứu thành sản phẩm thực tế phục vụ doanh nghiệp.
 
-## 🎯 Career Objective
+## 🎯 Mục tiêu nghề nghiệp
 
-Seeking an **AI Engineer Intern / Fresher** position where I can apply my knowledge in:
+Tìm kiếm vị trí **Thực tập sinh / Fresher AI Engineer**, nơi tôi có thể áp dụng và phát triển kiến thức về:
 
 - Machine Learning (ML)
 - Deep Learning (DL)
 - Computer Vision (CV)
 - Natural Language Processing (NLP)
-- MLOps & Model Deployment
+- MLOps và triển khai mô hình AI
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +44,7 @@ Seeking an **AI Engineer Intern / Fresher** position where I can apply my knowle
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,flask,fastapi,mysql,git,github,vscode,docker&perline=6&theme=dark" />
 </div>
 
-### 🤖 AI / Data Science Libraries
+### 🤖 Thư viện AI / Data Science
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&perline=4&theme=dark" />
@@ -48,30 +56,30 @@ Seeking an **AI Engineer Intern / Fresher** position where I can apply my knowle
 - Seaborn
 - Jupyter Notebook
 
-## 📚 Currently Learning
+## 📚 Hiện đang học
 
-- Advanced CNN Architectures (ResNet, EfficientNet)
-- Transformers & Large Language Models
-- LangChain & Retrieval-Augmented Generation (RAG)
-- Docker & Model Deployment
-- MLOps Fundamentals
+- Các kiến trúc CNN nâng cao (ResNet, EfficientNet)
+- Transformers và Large Language Models (LLMs)
+- LangChain và Retrieval-Augmented Generation (RAG)
+- Docker và triển khai mô hình AI
+- MLOps cơ bản
 
-## 🚀 Featured Projects
+## 🚀 Dự án tiêu biểu
 
-### 😊 Facial Emotion Recognition System
-- Built a CNN-based model to classify 7 facial emotions.
-- Applied data preprocessing, augmentation, and performance evaluation.
-- Developed a Flask web application for real-time predictions.
+### 😊 Hệ thống nhận diện cảm xúc khuôn mặt
+- Xây dựng mô hình CNN phân loại 7 trạng thái cảm xúc.
+- Tiền xử lý dữ liệu, tăng cường dữ liệu (Data Augmentation) và đánh giá mô hình.
+- Phát triển ứng dụng Web bằng Flask để dự đoán cảm xúc theo thời gian thực.
 
-### 📊 Data Analysis Projects
-- Exploratory Data Analysis (EDA)
-- Data Cleaning and Visualization
-- Predictive Modeling
+### 📊 Các dự án phân tích dữ liệu
+- Khám phá dữ liệu (EDA)
+- Làm sạch và trực quan hóa dữ liệu
+- Xây dựng mô hình dự đoán
 
-### 🌐 AI-powered Web Applications
-- Full-stack applications integrating machine learning models into web systems.
+### 🌐 Ứng dụng Web tích hợp AI
+- Phát triển các hệ thống Web đưa mô hình Machine Learning vào sử dụng thực tế.
 
-## 📈 GitHub Stats
+## 📈 Thống kê GitHub
 
 <div align="center">
   <img src="https://github-profile-maker.vercel.app/api/stats?username=NguyenNgocTuanAnh09&theme=tokyonight&layout=standard&show_icons=true&hide_border=false&hide_title=false&hide_rank=false&border_radius=10" width="49%" alt="GitHub Stats" />
@@ -81,21 +89,21 @@ Seeking an **AI Engineer Intern / Fresher** position where I can apply my knowle
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NguyenNgocTuanAnh09&color=blue&style=flat&label=Profile%20Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=NguyenNgocTuanAnh09&color=blue&style=flat&label=Lượt%20truy%20cập" alt="Profile Views" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-maker.vercel.app/api/divider?bgType=solid&thickness=2&alignment=center&bgSolidColor=CCCCCC&bgStartColor=CCCCCC&bgEndColor=999999&bgGradientDirection=horizontal" alt="Divider" />
 </div>
 
-## 🏆 Certifications (Optional)
+## 🏆 Chứng chỉ (Nếu có)
 
 - Machine Learning Specialization – Andrew Ng
 - Deep Learning Specialization – Andrew Ng
 - Python for Data Science
 - SQL for Data Analysis
 
-## 📫 Connect With Me
+## 📫 Liên hệ với tôi
 
 <div align="center">
 
@@ -108,5 +116,5 @@ Seeking an **AI Engineer Intern / Fresher** position where I can apply my knowle
 ---
 
 <div align="center">
-  <i>"Turning AI ideas into real-world applications."</i>
+  <i>"Biến ý tưởng AI thành các ứng dụng thực tiễn."</i>
 </div>
