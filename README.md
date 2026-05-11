@@ -1,7 +1,7 @@
 <h1 align="center">Xin chào, tôi là Nguyễn Ngọc Tuấn Anh 👋</h1>
 
 <div align="center">
-  <h3>Fresher AI Engineer | Machine Learning | Deep Learning | Computer Vision | NLP</h3>
+  <h3>Fresher/Intern AI Engineer | Machine Learning | Deep Learning | Computer Vision | NLP</h3>
 </div>
 
 ---
@@ -103,14 +103,17 @@ Tìm kiếm vị trí **Intern / Fresher AI Engineer** để:
 
 <br>
 
+## 📈 Thống kê GitHub
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NguyenNgocTuanAnh09&color=blue&style=flat&label=Profile%20Views" alt="Profile Views" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NguyenNgocTuanAnh09&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNgocTuanAnh09&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NguyenNgocTuanAnh09&color=blue&style=flat&label=Profile%20Views" />
+  <img src="https://komarev.com/ghpvc/?username=NguyenNgocTuanAnh09&color=blue&style=flat&label=Profile%20Views" alt="Profile Views" />
 </div>
 
 ---
