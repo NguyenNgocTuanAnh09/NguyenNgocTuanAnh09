@@ -1,7 +1,7 @@
 <h1 align="center">Xin chào, tôi là Nguyễn Ngọc Tuấn Anh 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Thực+tập+sinh+AI+Engineer;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Xử+lý+ngôn+ngữ+tự+nhiên;Xây+dựng+ứng+dụng+Web+tích+hợp+AI" alt="Typing SVG" />
+  <h3>AI Engineer Intern | Machine Learning | Deep Learning | Computer Vision | NLP</h3>
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Giới thiệu bản thân
 
-🎓 Sinh viên Công nghệ Thông tin với niềm đam mê mạnh mẽ trong lĩnh vực Trí tuệ nhân tạo và Kỹ thuật phần mềm.
+🎓 Sinh viên Công nghệ Thông tin với niềm đam mê trong lĩnh vực Trí tuệ nhân tạo (AI) và Kỹ thuật phần mềm.
 
 🤖 Tập trung nghiên cứu và phát triển trong các lĩnh vực:
 - Machine Learning (Học máy)
@@ -18,90 +18,105 @@
 - Computer Vision (Thị giác máy tính)
 - Natural Language Processing (Xử lý ngôn ngữ tự nhiên)
 
-🌐 Xây dựng các ứng dụng Web Full-stack tích hợp mô hình AI.
+🌐 Xây dựng các ứng dụng Web tích hợp mô hình AI.
 
 📊 Quan tâm đến toàn bộ vòng đời của một hệ thống AI:
 - Thu thập và tiền xử lý dữ liệu
 - Huấn luyện và đánh giá mô hình
-- Triển khai (Deployment)
-- Giám sát và tối ưu hệ thống
+- Triển khai ứng dụng (Deployment)
+- Theo dõi và tối ưu hệ thống
 
-🚀 Mục tiêu: Trở thành AI Engineer có khả năng biến các mô hình nghiên cứu thành sản phẩm thực tế phục vụ doanh nghiệp.
+🚀 Mục tiêu: Trở thành AI Engineer có khả năng xây dựng các sản phẩm AI ứng dụng trong thực tế.
+
+---
 
 ## 🎯 Mục tiêu nghề nghiệp
 
-Tìm kiếm vị trí **Thực tập sinh / Fresher AI Engineer**, nơi tôi có thể áp dụng và phát triển kiến thức về:
-
+Tìm kiếm vị trí **Intern / Fresher AI Engineer** để áp dụng và phát triển kiến thức về:
 - Machine Learning (ML)
 - Deep Learning (DL)
 - Computer Vision (CV)
 - Natural Language Processing (NLP)
 - MLOps và triển khai mô hình AI
 
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,flask,fastapi,mysql,git,github,vscode,docker&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,flask,mysql,git,github,vscode&perline=6&theme=dark" />
 </div>
 
-### 🤖 Thư viện AI / Data Science
+### 🤖 AI / Data Science Libraries
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&perline=4&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&perline=3&theme=dark" />
 </div>
 
 - NumPy
 - Pandas
 - Matplotlib
 - Seaborn
+- Keras
+- Pillow
+- Joblib
 - Jupyter Notebook
+- Google Colab
+
+---
 
 ## 📚 Hiện đang học
 
 - Các kiến trúc CNN nâng cao (ResNet, EfficientNet)
-- Transformers và Large Language Models (LLMs)
-- LangChain và Retrieval-Augmented Generation (RAG)
+- Natural Language Processing (NLP)
 - Docker và triển khai mô hình AI
 - MLOps cơ bản
 
+---
+
 ## 🚀 Dự án tiêu biểu
 
-### 😊 Hệ thống nhận diện cảm xúc khuôn mặt
-- Xây dựng mô hình CNN phân loại 7 trạng thái cảm xúc.
-- Tiền xử lý dữ liệu, tăng cường dữ liệu (Data Augmentation) và đánh giá mô hình.
-- Phát triển ứng dụng Web bằng Flask để dự đoán cảm xúc theo thời gian thực.
+### 🩺 Kidney Disease Prediction
+- Xây dựng hệ thống dự đoán bệnh thận mãn tính sử dụng bộ dữ liệu Chronic Kidney Disease từ Kaggle.
+- Thực hiện tiền xử lý dữ liệu, xử lý giá trị thiếu, chuẩn hóa dữ liệu và huấn luyện các mô hình Machine Learning.
+- So sánh hiệu năng giữa nhiều thuật toán và lựa chọn mô hình tốt nhất.
+- Triển khai ứng dụng Web bằng Flask cho phép nhập thông số y tế và dự đoán nguy cơ mắc bệnh.
+- 🔗 Source code: https://github.com/NguyenNgocTuanAnh09/Kidney-Disease-Prediction
 
-### 📊 Các dự án phân tích dữ liệu
-- Khám phá dữ liệu (EDA)
-- Làm sạch và trực quan hóa dữ liệu
-- Xây dựng mô hình dự đoán
+### 😊 Emotion Recognition Using CNN
+- Xây dựng hệ thống nhận diện cảm xúc khuôn mặt với 5 nhãn cảm xúc sử dụng bộ dữ liệu FER-2013.
+- Tiền xử lý ảnh, Data Augmentation, tính toán Class Weight và huấn luyện mô hình Deep Learning.
+- So sánh hiệu năng giữa CNN, MobileNetV2 và VGG16.
+- Triển khai ứng dụng Web bằng Flask cho phép nhận diện cảm xúc từ ảnh và webcam theo thời gian thực.
+- 🔗 Source code: https://github.com/NguyenNgocTuanAnh09/emotion-recognition
 
-### 🌐 Ứng dụng Web tích hợp AI
-- Phát triển các hệ thống Web đưa mô hình Machine Learning vào sử dụng thực tế.
+---
 
 ## 📈 Thống kê GitHub
 
 <div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/stats?username=NguyenNgocTuanAnh09&theme=tokyonight&layout=standard&show_icons=true&hide_border=false&hide_title=false&hide_rank=false&border_radius=10" width="49%" alt="GitHub Stats" />
-  <img src="https://github-profile-maker.vercel.app/api/top-langs?username=NguyenNgocTuanAnh09&theme=tokyonight&layout=compact&hide_border=false&hide_progress=false&langs_count=8&border_radius=10" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NguyenNgocTuanAnh09&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNgocTuanAnh09&layout=compact&theme=tokyonight" width="49%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NguyenNgocTuanAnh09&color=blue&style=flat&label=Lượt%20truy%20cập" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=NguyenNgocTuanAnh09&color=blue&style=flat&label=Profile%20Views" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-maker.vercel.app/api/divider?bgType=solid&thickness=2&alignment=center&bgSolidColor=CCCCCC&bgStartColor=CCCCCC&bgEndColor=999999&bgGradientDirection=horizontal" alt="Divider" />
 </div>
 
-## 🏆 Chứng chỉ (Nếu có)
+## 🏆 Chứng chỉ
 
-- Machine Learning Specialization – Andrew Ng
-- Deep Learning Specialization – Andrew Ng
-- Python for Data Science
-- SQL for Data Analysis
+- Machine Learning Specialization – Andrew Ng (nếu có)
+- Deep Learning Specialization – Andrew Ng (nếu có)
+- Python for Data Science (nếu có)
+- SQL for Data Analysis (nếu có)
+
+---
 
 ## 📫 Liên hệ với tôi
 
