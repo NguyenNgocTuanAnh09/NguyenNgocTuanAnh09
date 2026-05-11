@@ -94,14 +94,6 @@ Tìm kiếm vị trí **Intern / Fresher AI Engineer** để:
 
 ---
 
-## 📈 Thống kê GitHub
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NguyenNgocTuanAnh09&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNgocTuanAnh09&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-</div>
-
-<br>
 
 ## 📈 Thống kê GitHub
 
