@@ -1,7 +1,7 @@
 <h1 align="center">Xin chào, tôi là Nguyễn Ngọc Tuấn Anh 👋</h1>
 
 <div align="center">
-  <h3>AI Engineer Intern | Machine Learning | Deep Learning | Computer Vision | NLP</h3>
+  <h3>AI Engineer Intern/Fresher | Machine Learning | Deep Learning | Computer Vision | NLP</h3>
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Giới thiệu bản thân
 
-🎓 Sinh viên Công nghệ Thông tin với niềm đam mê trong lĩnh vực Trí tuệ nhân tạo (AI) và Kỹ thuật phần mềm.
+🎓 Sinh viên Hệ thống thông tin với niềm đam mê trong lĩnh vực Trí tuệ nhân tạo (AI).
 
 🤖 Tập trung nghiên cứu và phát triển trong các lĩnh vực:
 - Machine Learning (Học máy)
@@ -37,7 +37,7 @@ Tìm kiếm vị trí **Intern / Fresher AI Engineer** để áp dụng và phá
 - Deep Learning (DL)
 - Computer Vision (CV)
 - Natural Language Processing (NLP)
-- MLOps và triển khai mô hình AI
+- Triển khai mô hình AI
 
 ---
 
@@ -108,15 +108,6 @@ Tìm kiếm vị trí **Intern / Fresher AI Engineer** để áp dụng và phá
 <div align="center">
   <img src="https://github-profile-maker.vercel.app/api/divider?bgType=solid&thickness=2&alignment=center&bgSolidColor=CCCCCC&bgStartColor=CCCCCC&bgEndColor=999999&bgGradientDirection=horizontal" alt="Divider" />
 </div>
-
-## 🏆 Chứng chỉ
-
-- Machine Learning Specialization – Andrew Ng (nếu có)
-- Deep Learning Specialization – Andrew Ng (nếu có)
-- Python for Data Science (nếu có)
-- SQL for Data Analysis (nếu có)
-
----
 
 ## 📫 Liên hệ với tôi
 
