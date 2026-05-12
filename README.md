@@ -1,118 +1,154 @@
-<h1 align="center">Xin chào, tôi là Nguyễn Ngọc Tuấn Anh 👋</h1>
-
 <div align="center">
-  <h3>Fresher/Intern AI Engineer | Machine Learning | Deep Learning | Computer Vision | NLP</h3>
+
+```
+███╗   ██╗ ██████╗ ████████╗██╗   ██╗ █████╗ ███╗   ██╗     █████╗ ███╗   ██╗██╗  ██╗
+████╗  ██║██╔════╝ ╚══██╔══╝██║   ██║██╔══██╗████╗  ██║    ██╔══██╗████╗  ██║██║  ██║
+██╔██╗ ██║██║  ███╗   ██║   ██║   ██║███████║██╔██╗ ██║    ███████║██╔██╗ ██║███████║
+██║╚██╗██║██║   ██║   ██║   ██║   ██║██╔══██║██║╚██╗██║    ██╔══██║██║╚██╗██║██╔══██║
+██║ ╚████║╚██████╔╝   ██║   ╚██████╔╝██║  ██║██║ ╚████║    ██║  ██║██║ ╚████║██║  ██║
+╚═╝  ╚═══╝ ╚═════╝    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
+```
+
+# Xin chào! Tôi là **Nguyễn Ngọc Tuấn Anh** 👋
+
+### 🤖 Fresher AI Engineer · Machine Learning · Deep Learning · Computer Vision · NLP
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Engineer+in+Training+%F0%9F%9A%80;Building+real-world+AI+applications;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Always+learning%2C+always+building..." alt="Typing SVG" />
+
+[![Profile Views](https://komarev.com/ghpvc/?username=NguyenNgocTuanAnh09&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/NguyenNgocTuanAnh09)
+[![Email](https://img.shields.io/badge/Email-ngoctuandn09%40gmail.com-00d9ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngoctuandn09@gmail.com)
+
 </div>
 
 ---
 
-## 👨‍💻 Giới thiệu bản thân
+## 👨‍💻 Về tôi
 
-🎓 Sinh viên ngành Hệ thống Thông tin tại Đại học Thủy Lợi, định hướng phát triển trở thành AI Engineer.
+```python
+class TuanAnh:
+    def __init__(self):
+        self.name       = "Nguyễn Ngọc Tuấn Anh"
+        self.university = "Đại học Thủy Lợi"
+        self.major      = "Hệ thống Thông tin"
+        self.role       = "Fresher / Intern AI Engineer"
+        self.interests  = ["Machine Learning", "Deep Learning",
+                           "Computer Vision", "NLP"]
+        self.stack      = ["Python", "TensorFlow", "Keras",
+                           "OpenCV", "Flask", "Scikit-learn"]
+        self.goal       = "Xây dựng sản phẩm AI có giá trị thực tế 🚀"
 
-🤖 Quan tâm và nghiên cứu các lĩnh vực:
-- Machine Learning (ML)
-- Deep Learning (DL)
-- Computer Vision (CV)
-- Natural Language Processing (NLP)
+    def say_hi(self):
+        print("Rất vui được kết nối với bạn!")
+```
 
-🌐 Có kinh nghiệm xây dựng các ứng dụng Web tích hợp mô hình AI bằng Flask.
-
-📊 Hiểu và thực hành toàn bộ quy trình phát triển một hệ thống AI:
-- Thu thập và tiền xử lý dữ liệu
-- Huấn luyện và đánh giá mô hình
-- So sánh và lựa chọn mô hình tối ưu
-- Triển khai ứng dụng thực tế
-
-🚀 Mục tiêu nghề nghiệp là xây dựng các sản phẩm AI có tính ứng dụng cao trong thực tế.
-
----
-
-## 🎯 Mục tiêu nghề nghiệp
-
-Tìm kiếm vị trí **Intern / Fresher AI Engineer** để:
-- Vận dụng kiến thức về Machine Learning, Deep Learning, Computer Vision và NLP.
-- Tham gia phát triển các hệ thống AI phục vụ bài toán thực tế.
-- Nâng cao kỹ năng xử lý dữ liệu, huấn luyện mô hình và triển khai ứng dụng.
-- Tích lũy kinh nghiệm trong môi trường làm việc chuyên nghiệp.
+- 🎓 Sinh viên ngành **Hệ thống Thông tin** tại Đại học Thủy Lợi
+- 🧠 Nghiên cứu và thực hành **ML · DL · CV · NLP**
+- 🌐 Có kinh nghiệm xây dựng **Web AI** tích hợp mô hình bằng Flask
+- 📊 Thành thạo toàn bộ pipeline: **Thu thập → Tiền xử lý → Huấn luyện → Triển khai**
+- 🎯 Tìm kiếm vị trí **Intern / Fresher AI Engineer**
 
 ---
 
-## 🛠️ Kỹ năng chuyên môn
+## 🛠️ Tech Stack
 
-### 💻 Ngôn ngữ lập trình
-- Python
+<div align="center">
 
-### 🤖 AI / Data Science
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
+### 💻 Ngôn ngữ
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 📚 Thư viện và Framework
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- TensorFlow
-- Keras
-- OpenCV
-- Pillow
-- Flask
-- Joblib
+### 🤖 AI / Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 📊 Data Science
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+
+### 🌐 Web & Deploy
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Joblib](https://img.shields.io/badge/Joblib-F7931E?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🧰 Công cụ
-- Jupyter Notebook
-- Google Colab
-- Visual Studio Code
-- Git
-- GitHub
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
-
+</div>
 
 ---
 
 ## 🚀 Dự án tiêu biểu
 
 ### 🩺 Kidney Disease Prediction
-- Xây dựng hệ thống dự đoán bệnh thận mãn tính sử dụng bộ dữ liệu **Chronic Kidney Disease** từ Kaggle.
-- Tiền xử lý dữ liệu, xử lý giá trị thiếu, xử lý giá trị ngoại lai, mã hoá biến phân loại, chuẩn hóa dữ liệu.
-- Huấn luyện và so sánh nhiều thuật toán và lựa chọn mô hình có hiệu suất tốt nhất.
-- Triển khai ứng dụng Web bằng Flask để dự đoán nguy cơ mắc bệnh từ các chỉ số y tế.
+> **Dự đoán bệnh thận mãn tính từ chỉ số y tế**
 
+| Hạng mục | Chi tiết |
+|---|---|
+| 📦 Dataset | Chronic Kidney Disease – Kaggle |
+| 🔧 Tiền xử lý | Xử lý missing values, outliers, encoding, normalization |
+| 🤖 Mô hình | So sánh nhiều thuật toán → chọn mô hình tối ưu |
+| 🌐 Triển khai | Web app Flask – nhập chỉ số y tế → dự đoán nguy cơ |
+
+**Tech:** `Python` `Scikit-learn` `Pandas` `Flask` `Joblib`
 
 ---
 
 ### 😊 Emotion Recognition Using CNN
-- Xây dựng hệ thống nhận diện cảm xúc khuôn mặt với 5 nhãn cảm xúc sử dụng bộ dữ liệu **FER-2013**.
-- Tiền xử lý ảnh, Data Augmentation, Class Weight.
-- So sánh hiệu năng giữa CNN, MobileNetV2 và VGG16, lựa chọn mô hình tốt nhất, callbacks, xây dựng và huấn luyện.
-- Triển khai ứng dụng Web bằng Flask cho phép nhận diện cảm xúc từ ảnh và webcam theo thời gian thực.
+> **Nhận diện cảm xúc khuôn mặt theo thời gian thực**
 
+| Hạng mục | Chi tiết |
+|---|---|
+| 📦 Dataset | FER-2013 (5 nhãn cảm xúc) |
+| 🔧 Tiền xử lý | Data Augmentation, Class Weight, Image Preprocessing |
+| 🤖 Mô hình | So sánh CNN · MobileNetV2 · VGG16 → chọn tốt nhất |
+| 🌐 Triển khai | Web app Flask – nhận diện từ ảnh & webcam real-time |
+
+**Tech:** `Python` `TensorFlow` `Keras` `OpenCV` `Flask`
 
 ---
 
-
-## 📈 Thống kê GitHub
+## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NguyenNgocTuanAnh09&show_icons=true&theme=tokyonight&hide_border=true&v=2" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNgocTuanAnh09&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Top Languages" />
+
+<img height="180em" src="https://streak-stats.demolab.com?user=NguyenNgocTuanAnh09&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+
+<br/>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NguyenNgocTuanAnh09&theme=tokyonight" alt="Repos per Language"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NguyenNgocTuanAnh09&theme=tokyonight" alt="Most Commit Language"/>
+
 </div>
 
-<br>
+---
+
+## 🎯 Mục tiêu hiện tại
+
+```
+✅ Nắm vững nền tảng ML · DL · CV · NLP
+🔄 Tích lũy thêm dự án thực tế vào portfolio
+🎯 Tìm kiếm vị trí Intern / Fresher AI Engineer
+🚀 Phát triển sản phẩm AI có ứng dụng thực tiễn cao
+```
+
+---
+
+## 📫 Liên hệ
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NguyenNgocTuanAnh09&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
+[![Email](https://img.shields.io/badge/Gmail-ngoctuandn09%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngoctuandn09@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-NguyenNgocTuanAnh09-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NguyenNgocTuanAnh09)
+
+<br/>
+
+⭐ *Nếu bạn thấy các dự án của mình thú vị, hãy để lại một ngôi sao nhé!* ⭐
+
 </div>
-
-
----
-
-## 📫 Liên hệ với tôi
-
-- 📧 Email: ngoctuandn09@gmail.com
-  
----
