@@ -82,10 +82,8 @@
 ## 📈 Thống kê GitHub
 
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=NguyenNgocTuanAnh09&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-  <br/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NguyenNgocTuanAnh09&theme=tokyonight" alt="Repos per Language"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NguyenNgocTuanAnh09&theme=tokyonight" alt="Most Commit Language"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NguyenNgocTuanAnh09&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NguyenNgocTuanAnh09&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
